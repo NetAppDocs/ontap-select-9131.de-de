@@ -1,0 +1,54 @@
+---
+sidebar: sidebar 
+permalink: reference_legal_notices.html 
+keywords: copyrights, notices, trademarks, patents, privacy 
+summary: Rechtliche Hinweise ermöglichen den Zugriff auf Copyright-Erklärungen, Marken, Patente und mehr. 
+---
+= Rechtliche Hinweise
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Rechtliche Hinweise ermöglichen den Zugriff auf Copyright-Erklärungen, Marken, Patente und mehr.
+
+
+
+== Urheberrecht
+
+http://www.netapp.com/us/legal/copyright.aspx[]
+
+
+
+== Marken
+
+NetApp, das NETAPP Logo und die auf der NetApp Markenseite aufgeführten Marken sind Marken von NetApp Inc. Andere Firmen- und Produktnamen können Marken der jeweiligen Eigentümer sein.
+
+http://www.netapp.com/us/legal/netapptmlist.aspx[]
+
+
+
+== Patente
+
+Eine aktuelle Liste der NetApp Patente finden Sie unter:
+
+https://www.netapp.com/us/media/patents-page.pdf[]
+
+
+
+== Datenschutzrichtlinie
+
+https://www.netapp.com/us/legal/privacypolicy/index.aspx[]
+
+
+
+== Open Source
+
+Die Notice-Datei enthält Informationen über das Urheberrecht von Drittanbietern und die in der NetApp-Software verwendeten Lizenzen.
+
+* link:https://library.netapp.com/ecm/ecm_download_file/ECMLP2885796["Hinweis für ONTAP Select 9.13.1"^]
+
