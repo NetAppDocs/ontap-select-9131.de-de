@@ -2099,7 +2099,6 @@ Auf dem Hypervisor-Host müssen die erforderlichen SSD-Laufwerke angeschlossen u
   <block id="209d48c97092139c09f12b8b898b3ebb" category="cell">Unbefristet (keine Verlängerung erforderlich)</block>
   <block id="fdad6dbf8e8406dac26765af9059a3a1" category="cell">Festdauer auf Basis des Kaufs (erneuert erforderlich)</block>
   <block id="20e5e85bddb25cf1cf39977f4a5b8f1f" category="cell">Leasing-Dauer für Daten-Aggregat</block>
-  <block id="6aade83f8151a6756008a80c389bef65" category="cell">Gilt nicht für eine Stunde bis sieben Tage</block>
   <block id="a051cb6fe36d0d57186040136f51ded4" category="cell">Seriennummer der Nodes</block>
   <block id="754352c17de30934f31734f144b3d9d0" category="summary">Wenn Sie ONTAP Select vor der Kaufentscheidung bewerten möchten, können Sie eine Evaluierungslizenz verwenden. Die Evaluierungslizenz ist im ONTAP Select Deploy-Administrationsprogramm enthalten und wird automatisch auf jeden ONTAP Select-Node im Rahmen der Evaluierungsimplementierung angewendet.</block>
   <block id="8b3398557c7fb55b263bf52bece82b68" category="doc">Evaluierungslizenzen</block>
@@ -3826,4 +3825,20 @@ Intercluster
   <block id="1c5ffa58ac07641f5cec5616c07b2ba2" category="sidebar">Fügen Sie ONTAP Select-Bilder hinzu</block>
   <block id="0a15f7ba73868a32304fdf52855463c9" category="sidebar">ONTAP Select-Bilder entfernen</block>
   <block id="afc9d68a1be701598b5ef94dc0be2844" category="sidebar">Wiederherstellung in einem Cluster mit zwei Nodes</block>
+  <block id="f24ce81f056d5acd59788df7f5ab36a1" category="list-text">FlexCache</block>
+  <block id="aae155889087fca42368d9fab8b54ee6" category="list-text">NDMP</block>
+  <block id="e681a3b45989b468533c4b90ee960bf9" category="cell">Keine Angabe</block>
+  <block id="7ce9d272dad1050f5d215fea78fec004" category="cell">Eine Stunde bis sieben Tage</block>
+  <block id="1106adf8812d775cf27b79c3606184f6" category="cell">Neun Ziffern und gleich der Lizenzseriennummer</block>
+  <block id="cda405d8561cd2797065f70348fbe747" category="cell">Zwanzig Stellen, die vom License Manager generiert werden</block>
+  <block id="db5eb84117d06047c97c9a0191b5fffe" category="cell">Unterstützung</block>
+  <block id="d7b5ad2c890d9e01c658dc9e1cc80af5" category="cell">Add-on und zeitlich begrenzt</block>
+  <block id="b055659deac2e10b8eadf9bae15af191" category="cell">Enthalten und parallel zur Laufzeit</block>
+  <block id="2b2fba693aacdb90002ef3efdb1f458b" category="cell">Lizenztypen</block>
+  <block id="7c8735b3789d1d371da9c168d892b5b2" category="cell">Standard, Premium, Premium XL</block>
+  <block id="f6f75165e8287838950283461281ea99" category="cell">Evaluierungslizenz verfügbar</block>
+  <block id="c8ce06302aadd8032e956b943dce085c" category="cell">Upgrade von Evaluierung auf Produktion</block>
+  <block id="cfc60e5db5da2e3856f4ae65f1b4493b" category="cell">Größenanpassung der ONTAP Select Virtual Machine (klein bis mittel, mittel bis groß)</block>
+  <block id="5afd324114e926d9bb06b382e5c6f40e" category="cell">Durchsetzung: Lizenz abgelaufen</block>
+  <block id="71781f9ea0fb446c6a84f96eac4f474f" category="cell">Ja (keine Kulanzzeit)</block>
 </blocks>
