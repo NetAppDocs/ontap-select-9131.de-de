@@ -288,7 +288,6 @@
   <block id="18c27fdda3b31de582a5c418705a0eab" category="paragraph">Es kann bis zu 30 Minuten dauern, bis der Cluster erstellt wurde.</block>
   <block id="aa28e7538205e834e26c77f5630f8893" category="list-text">Überwachen Sie den Cluster-Erstellungsprozess mit mehreren Schritten, um zu bestätigen, dass das Cluster erfolgreich erstellt wurde.</block>
   <block id="037cb8cf634438a48c4a376dd2eaecea" category="paragraph">Die Seite wird in regelmäßigen Abständen automatisch aktualisiert.</block>
-  <block id="d4f87fedecd0cb118e567859f3b4f8b0" category="admonition">Wenn der Cluster-Erstellungsvorgang initiiert, aber nicht abgeschlossen werden kann, ist das von Ihnen definierte ONTAP-Administratorpasswort möglicherweise nicht registriert. In diesem Fall können Sie mit dem Passwort _change123_ auf die Managementoberfläche für das ONTAP Select-Cluster zugreifen.</block>
   <block id="c29c0fa60d66b44a13904899d8712c68" category="open-title">Multi-Node-Cluster</block>
   <block id="1c9615c8466b4b5438d388b4200a58b4" category="list-text">Wenn das Popup-Fenster *Willkommen bei ONTAP Select* angezeigt wird, bestätigen Sie, dass Sie die Konfigurationsvoraussetzungen erfüllt haben, und klicken Sie auf *OK*.</block>
   <block id="736cb4ef7019568859d8e044e044c906" category="list-text">Klicken Sie auf der Seite *erste Schritte* auf *Hochladen* und wählen Sie eine Lizenz auf Ihrer lokalen Workstation aus, und klicken Sie auf *Öffnen*, um die Lizenz hochzuladen. Wiederholen Sie den Vorgang, um eine zweite Lizenz hinzuzufügen.</block>
@@ -3841,4 +3840,5 @@ Intercluster
   <block id="cfc60e5db5da2e3856f4ae65f1b4493b" category="cell">Größenanpassung der ONTAP Select Virtual Machine (klein bis mittel, mittel bis groß)</block>
   <block id="5afd324114e926d9bb06b382e5c6f40e" category="cell">Durchsetzung: Lizenz abgelaufen</block>
   <block id="71781f9ea0fb446c6a84f96eac4f474f" category="cell">Ja (keine Kulanzzeit)</block>
+  <block id="f1309e50d04ac13d06dbb8ce9e13947d" category="admonition">Wenn der Cluster-Erstellungsvorgang initiiert, aber nicht abgeschlossen werden kann, wird das von Ihnen definierte ONTAP-Administratorpasswort möglicherweise nicht angewendet. Wenden Sie sich in diesem Fall an den technischen Support von NetApp, um Unterstützung zu erhalten.</block>
 </blocks>
