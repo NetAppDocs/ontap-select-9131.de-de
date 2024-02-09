@@ -571,12 +571,6 @@ Alle vSphere- und VSAN-Lizenzen werden jetzt unterstützt.</block>
   <block id="bbbb96898e430d9cf7e061ad70ad17ad" category="list-text">Geben Sie die vCenter Zugangsdaten ein und wählen Sie die Plug-in-Version aus.</block>
   <block id="9909e23ede42f2318acada35ac10bd3e" category="list-text">Klicken Sie Auf *Registrieren*.</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
-  <block id="b56253bf92505bda20b38657c778bccf" category="doc">Der Seitentitel wird hier angezeigt</block>
-  <block id="5d9328ee3f628e51f1a4f871ccff7313" category="paragraph">Verwenden Sie diese Vorlage für Artikel, Themen, wie auch immer Sie sie nennen. Die Datei Index.adoc hat nicht die richtigen Schlüsselwörter für eine Artikelseite und die Verwendung als Vorlage kann später zu Problemen bei der Veröffentlichung führen.</block>
-  <block id="26739de98ff2a207a5c145caf27c2508" category="admonition">Löschen Sie diese Datei vor der ersten Veröffentlichung, da die Datei veröffentlicht wird, auch wenn sie nicht mit der Sidebar verknüpft ist. Nachdem Sie ein paar Artikel erstellt haben, können Sie sie stattdessen als Starter verwenden.</block>
-  <block id="38b255c5af258b1f086fb7c9aa4f252c" category="paragraph">Wenn sich Ihre Artikel in einem Unterordner befinden, müssen Sie zwei Anpassungen an der oben gezeigten Notation vornehmen:</block>
-  <block id="df25e29acec650a07b41041946158355" category="list-text"><block ref="abc9d0bfc8d5688ddd4babf6a5402ee4" prefix="" category="inline-code"></block></block>
-  <block id="97df5ffadc97296dc727ffddf2d2e1fe" category="list-text"><block ref="ff695bd1637208b4929c7ae2085cd551" prefix="" category="inline-code"></block></block>
   <block id="f003eee578389a046f25dba6e783a672" category="summary">ONTAP Select ist ideal geeignet, eine oder mehrere Private Clouds innerhalb Ihres Unternehmens zu unterstützen. Ein typischer Anwendungsfall ist die Bereitstellung von Storage-Services für Private Clouds auf der Basis von herkömmlichen Servern.</block>
   <block id="fb4b04f0bbd3011e95882612761e5f4a" category="doc">Private Cloud und Datacenter</block>
   <block id="cc2d9bf42776eb79fe1ddb4e755eff01" category="paragraph">Wie die Public Cloud bietet auch eine Private Cloud Flexibilität sowie ein schnelles Einrichten und Abbauen. Darüber hinaus bietet eine Private Cloud mehr Sicherheit und Kontrolle.</block>
@@ -3841,4 +3835,5 @@ Intercluster
   <block id="5afd324114e926d9bb06b382e5c6f40e" category="cell">Durchsetzung: Lizenz abgelaufen</block>
   <block id="71781f9ea0fb446c6a84f96eac4f474f" category="cell">Ja (keine Kulanzzeit)</block>
   <block id="f1309e50d04ac13d06dbb8ce9e13947d" category="admonition">Wenn der Cluster-Erstellungsvorgang initiiert, aber nicht abgeschlossen werden kann, wird das von Ihnen definierte ONTAP-Administratorpasswort möglicherweise nicht angewendet. Wenden Sie sich in diesem Fall an den technischen Support von NetApp, um Unterstützung zu erhalten.</block>
+  <block id="b5150f2681f3eb5a5b6aab4cbdadad34" category="paragraph">Virtual NAS Implementierungen (vNAS) unterstützen ONTAP Select Cluster auf virtuellem SAN (VSAN), einigen HCI Produkten und externen Array-Typen von Datastores. Die zugrunde liegende Infrastruktur dieser Konfigurationen bietet Ausfallsicherheit im Datenspeicher.</block>
 </blocks>
