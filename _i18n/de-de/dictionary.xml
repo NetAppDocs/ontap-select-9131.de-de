@@ -3836,4 +3836,5 @@ Intercluster
   <block id="71781f9ea0fb446c6a84f96eac4f474f" category="cell">Ja (keine Kulanzzeit)</block>
   <block id="f1309e50d04ac13d06dbb8ce9e13947d" category="admonition">Wenn der Cluster-Erstellungsvorgang initiiert, aber nicht abgeschlossen werden kann, wird das von Ihnen definierte ONTAP-Administratorpasswort möglicherweise nicht angewendet. Wenden Sie sich in diesem Fall an den technischen Support von NetApp, um Unterstützung zu erhalten.</block>
   <block id="b5150f2681f3eb5a5b6aab4cbdadad34" category="paragraph">Virtual NAS Implementierungen (vNAS) unterstützen ONTAP Select Cluster auf virtuellem SAN (VSAN), einigen HCI Produkten und externen Array-Typen von Datastores. Die zugrunde liegende Infrastruktur dieser Konfigurationen bietet Ausfallsicherheit im Datenspeicher.</block>
+  <block id="8e59a8dddb8fd9611be1f2b3aca8c4fa" category="admonition">ONTAP Select 9.12.1 und höher unterstützt jetzt SVM DR als Quelle mit maximal 16 Beziehungen. Die DR-Unterstützung für SVM ist auf die Verwendung der Quell-ONTAP-Version auf Versionen +2, also 9.12.1 auf 9.14.1 beschränkt.</block>
 </blocks>

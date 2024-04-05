@@ -101,7 +101,6 @@ Aufgrund der virtualisierten Umgebung, die mit ONTAP Select verwendet wird, wird
 Das Ändern der Eigenschaften der ONTAP-Ports, einschließlich Geschwindigkeit, Duplex und Flusssteuerung, wird nicht unterstützt.
 * Serviceprozessoren
 * SVM-Migration
-* Disaster Recovery für Storage VM (SVM DR)
 * SnapLock-Compliance
 * Manipulationssichere Snapshot Kopien
 * VMware HCX
