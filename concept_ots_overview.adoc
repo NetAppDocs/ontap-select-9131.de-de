@@ -94,6 +94,7 @@ Fibre Channel und Fibre Channel over Ethernet werden nicht unterstützt.
 Das herkömmliche Statusmonitoring, das in Verbindung mit einer hardwarebasierten ONTAP-Implementierung verwendet wird, hängt spezifisch von den zugrunde liegenden Hardwarekomponenten ab. Aufgrund der mit ONTAP Select verwendeten virtualisierten Umgebung sind Zustandsüberwachung nicht aktiv.
 * Interface Groups
 Schnittstellengruppen werden nicht unterstützt.
+* Multi-Tenant Key Manager (MTKM)
 * NIC-Offload-Unterstützung
 Aufgrund der virtualisierten Umgebung, die mit ONTAP Select verwendet wird, wird die NIC-Offload-Einrichtung nicht unterstützt.
 * NetApp Storage Encryption-Laufwerke
