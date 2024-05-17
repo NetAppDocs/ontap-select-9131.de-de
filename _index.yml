@@ -1,5 +1,12 @@
 ---
 indexpage:
+  title: ONTAP Select-Dokumentation
+  summary: NetApp ONTAP Select ist eine softwaredefinierte Storage-Appliance, die
+    Sie auf einer Reihe Standard-Hardwaresystemen mit VMware ESXi Hypervisor implementieren
+    können. Mit dieser Lösung erhalten Sie die nötige Flexibilität zum Aufbau einer
+    flexiblen und skalierbaren Private-Cloud-Infrastruktur. Diese Website enthält
+    die Dokumentation für ONTAP Select 9.13.1.
+  keywords: ontap select, storage appliance, upgrade, deployment, ontap, 9.13.1
   lead: NetApp ONTAP Select ist eine softwaredefinierte Storage-Appliance, die Sie
     auf einer Reihe Standard-Hardwaresystemen mit VMware ESXi Hypervisor implementieren
     können. Mit dieser Lösung erhalten Sie die nötige Flexibilität zum Aufbau einer
