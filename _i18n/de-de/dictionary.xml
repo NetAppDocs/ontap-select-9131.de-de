@@ -3295,7 +3295,6 @@ Intercluster
   <block id="58c277c116ff23ffb9879debb95b4968" category="list-text">Unterstützung für NVMe over TCP</block>
   <block id="db5f5d6e1e5a3e29724ce78258556ff1" category="list-text">Wenn Sie ein Upgrade auf ONTAP Select 9.13.1 durchführen, benötigen Sie die neue Lizenz zur Unterstützung von NVMe over TCP. Diese Lizenz ist automatisch enthalten, wenn Sie ONTAP Select zum ersten Mal ab Version 9.13.1 bereitstellen.</block>
   <block id="5f4c6121d4f63aaa5d6daebc2a2effee" category="list-text">Aktualisierte Unterstützung von VMware ESXi</block>
-  <block id="4d8daf3f51ebf7fefb4dfcf900e9b79d" category="list-text">Ab ONTAP 9.13.1 wird VMware ESXi 8.0 GA (Build 20513097) mit Hardwareversion 4 und höher unterstützt.</block>
   <block id="77e5d3b8719596b41c77222a6711e69b" category="section-title">ONTAP Select 9.12.1</block>
   <block id="05dd50ebf48db80deadf4c9a847c2ce4" category="paragraph">ONTAP Select 9.12.1 profitiert von den meisten neuen Entwicklungen in der aktuellen Version des zentralen ONTAP Produkts. Es enthält keine neuen Funktionen oder Verbesserungen speziell für ONTAP Select.</block>
   <block id="7802fb8cc2dd2205ca511b49141235e0" category="section-title">ONTAP Select 9.11.1</block>
@@ -3858,4 +3857,5 @@ Intercluster
   <block id="79416550309ddcac023464218d55a23d" category="paragraph">Wenn das Enddatum eines Capacity Tier-Supportvertrags verstrichen ist, kann der Node zwar weiter ausgeführt werden, doch können Sie ONTAP Updates nicht herunterladen und installieren oder sich telefonisch an den technischen Support von NetApp wenden, ohne den Supportvertrag zunächst auf den neuesten Stand zu bringen.</block>
   <block id="9b9568babf180c232b393ba5f95ff4c3" category="paragraph">Wenn ein Kapazitäts-Pool-Abonnement ausfällt, warnt das System Sie zuerst, aber nach 30 Tagen, wenn das System heruntergefahren wird, wird es erst neu gestartet, wenn ein aktualisiertes Abonnement auf dem Bereitstellungs-Server installiert wird.</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 und höher unterstützt jetzt SVM DR als Quelle und Ziel mit maximal 16 Beziehungen. Die DR-Unterstützung der SVM ist auf die Verwendung der Quell-ONTAP-Version auf Version +2 beschränkt. Beispielsweise kann die ONTAP Select 9.12.1 Quelle eine Verbindung mit den Ziel-ONTAP-Versionen 9.12.1, 9.13.1 oder 9.14.1 herstellen.</block>
+  <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">Ab ONTAP 9.13.1 wird VMware ESXi 8.0.1 GA (Build 20513097) mit Hardwareversion 4 und höher unterstützt.</block>
 </blocks>
